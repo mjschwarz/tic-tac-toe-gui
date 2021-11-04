@@ -5,7 +5,7 @@ Additionally, it utilizes *Pygame* for gathering user input and generating a gra
 
 The GitHub repository for this project can be found [here](https://github.com/mjschwarz/TicTacToe.git).
 
-![](../../Screen Shot 2021-11-03 at 10.04.51 PM.png)
+![](https://im2.ezgif.com/tmp/ezgif-2-e35bdc630739.png)
 
 This project was inspired by a *GeeksforGeeks* article. The x and o player icons were also supplied by *GeeksforGeeks*.
 
