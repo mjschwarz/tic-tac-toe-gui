@@ -43,8 +43,8 @@ class Board:
 
         pg.display.set_caption("Tic Tac Toe")
 
-        self.x_icon = pg.image.load("x_img.png")
-        self.o_icon = pg.image.load("o_img.png")
+        self.x_icon = pg.image.load("images/x_img.png")
+        self.o_icon = pg.image.load("images/o_img.png")
 
     def reset_board(self):
         self.winner = None
